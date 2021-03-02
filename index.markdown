@@ -4,8 +4,3 @@
 
 layout: home
 ---
-
-# usefull links
-* The link about _[About page](/about)_
-* Hello _[World](/hello-world)_
-* Not found _[link](/hdedededede)_
