@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[Franky Vertriest](https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}) started to develop in 2011 as a Java-developer.
+In 2013 he started a secondary occupation in designing and maintaining websites.
+He founded BitBox in March 2016, a Belgian based IT-consultancy firm. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+# Company information
+Enterprise number: BE 0649.800.228
+> BitBox GCV \
+> Achiel van Eechautestraat 7\
+> 9800 Deinze
