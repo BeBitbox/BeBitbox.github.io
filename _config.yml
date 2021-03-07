@@ -27,6 +27,7 @@ title: BitBox
 description: IT-consultancy firm located in Belgium.
 baseurl: ""
 url: https://www.bitbox.be
+google_analytics: UA-69846837-1
 
 # social
 github_username:  BeBitbox
