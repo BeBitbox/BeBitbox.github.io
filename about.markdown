@@ -11,5 +11,5 @@ He founded BitBox in March 2016, a Belgian based IT-consultancy firm.
 # Company information
 Enterprise number: BE 0649.800.228
 > BitBox GCV \
-> Achiel van Eechautestraat 7\
-> 9800 Deinze
+> Kervijn de Lettenhovedreef 1 \
+> 8720 Wakken
