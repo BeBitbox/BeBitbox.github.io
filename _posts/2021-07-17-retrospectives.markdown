@@ -105,7 +105,9 @@ Here are some great websites and books full of great ideas:
 * As previously mentioned, the book [Agile Retrospectives]
 * Free retrospective format suggestions: [Retromat]
 * Digital retrospective board with some nice templates: [Easy Retro]
+* Another blog about Retrospectives: [James Shore]
 
 [Agile Retrospectives]: https://pragprog.com/titles/dlret/agile-retrospectives/
 [Retromat]: https://retromat.org/
 [Easy Retro]: https://easyretro.io/
+[James Shore]: http://www.jamesshore.com/v2/books/aoad1/retrospectives
