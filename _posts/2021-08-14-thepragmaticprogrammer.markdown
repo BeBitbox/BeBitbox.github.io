@@ -15,7 +15,7 @@ You can find all the information on their [site]
 
 For me personally it's one of the best guides about being a software developer.
 First it is very motivational and teaches you the right mindset to tackle your work related problems.
-It also provides a lot of useful practices that are worthy to explore, much of which you will encounter anyway in the workplace.
+It also provides a lot of useful practices, that you can see as a toolbox: now it's up to you to pick the right tools for the job.
 This book is still interesting to read for the experienced developers, because it's another way of explaining some concepts, and you might always discover a hole in your knowledge.
 Some concepts were better explained in [Clean Code]: for example 'orthogonality': I prefer the explanation by Robert C. Martin: "Avoid side effects".
 
