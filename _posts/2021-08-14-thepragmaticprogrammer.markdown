@@ -22,18 +22,18 @@ Some concepts were better explained in [Clean Code]: for example 'orthogonality'
 # Most interesting tips from the book
 
 * Care about your craft: do it well or maybe IT is not for you?
-* Provide options, not excuses: especially with co-workers and clients. Don't burden them with problems, blame people, but present them solutions.
+* Provide options, not excuses: especially with co-workers and clients. Don't burden them with problems, blame people, but instead present them some solutions.
 * Don't live with broken windows: when you see something broken, fix it!
 * Be a catalyst for change: don't force change on people, instead show them how the future might be and help them create it.
 * Invest in yourself: make learning a habit.
 * A good software design is easier to change than a bad design.
-* Program close to the program design (Ubiquitous language in DDD).
+* Program close to the problem domain (Ubiquitous language in DDD).
 * Keep all knowledge in plain text: it will not become obsolete.
 * Always use Version Control System: save your configuration, scripts, code, preferences, documentation,… in Git.
 * Crash early: Fail fast… A crippled program is more dangerous than a dead program.
 * Shared state is incorrect state: how to deal with concurrency: event-driven, passing state around,…
 * A test is the first user of your code: get feedback early.
-* Build End-To-End, not Top-Down or Bottom-Up: the best way to learn fast about the problems you face.
+* Build End-To-End, not Top-Down or Bottom-Up: the best way to learn fast about the problems you encounter and how well you fulfill the requirements.
 * Fully functional teams: organize around functionality instead of job titles.
 * Sign your work: share it, be proud of it.
 * And most importantly: Don't panic!
