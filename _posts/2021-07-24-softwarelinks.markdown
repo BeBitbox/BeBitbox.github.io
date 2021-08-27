@@ -24,9 +24,12 @@ What to install on a new Ubuntu?
   {% highlight sh %}
   sudo apt install keepassxc
   {% endhighlight %}
-  
+
+## IT
+* About avoiding SQL Injection: [Bobby Tables]
 
 [IntelliJ]: https://www.jetbrains.com/idea/download/
 [Builder Generator]: https://plugins.jetbrains.com/plugin/6585-builder-generator
 [Mario Progress Bar]: https://plugins.jetbrains.com/plugin/14708-mario-progress-bar
 [Scroll from source]: https://plugins.jetbrains.com/plugin/7606-scroll-from-source
+[Bobby Tables]: https://bobby-tables.com/
