@@ -2,7 +2,7 @@
 layout: post
 title:  "Book: The Pragmatic Programmer"
 date:   2021-08-15 09:47:57 +0100
-permalink: /thepragmaticprogrammer/
+permalink: /the-pragmatic-programmer/
 ---
 
 The Pragmatic Programmer (20th Anniversary Edition) is a great book and must read for beginning developers.
