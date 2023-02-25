@@ -5,26 +5,25 @@ permalink: /projects/
 ---
 Detailed resume is available at your request.
 
-# ![Easypay logo](/images/easypay-logo.png)
+## ![Werk sociaal economie Logo](/images/wse-logo.png)
 
-`October 2011 - June 2014`
+`Mai 2019 - now`
 
-Developing HR-software for several companies:
-* Social Insurance Funds [Entraide]: adding new feature or updating to legal requirements 
-* Enterprise supervisor [Eunomia]: maintaining and adding new features
+As a technical lead: creating a new portal for Flemish citizens/enterprises to ask for social funds.
+* Europa: [Europees Sociaal Fonds]
+* Vlaanderen: [Ondersteuning Sociale Economie]
 <br><br>
 
-# ![De Persgroep Logo](/images/de-persgroep-logo.png)
+## ![Mijn Burgerprofiel Logo](/images/mbp-logo.png)
 
-`Juli 2014 - August 2017`
+`September 2018 - April 2019`
 
-Developing software for print content management, first as a developer, later as a Scrum master. 
-* Support for image content management, from display to payment
-* Support for regional news, especially for [Het Laatste Nieuws]
-* Print content automation for Dutch newspapers like [Algemeen Dagblad]
+A portal for Flemish citizens to see what the government knows about them and contact them.
+* As a technical lead: guide the project from development mode to maintenance mode
+* As a PM: manage the team and launching [Mijn Burgerprofiel]
 <br><br>
 
-# ![SFPD Logo](/images/sfpd-logo.png)
+## ![SFPD Logo](/images/sfpd-logo.png)
 
 `September 2017 - September 2018`
 
@@ -34,22 +33,23 @@ Software to manage and calculate pensions for the Belgian government as a Java c
 * Improving platform to communicate with the citizen
 <br><br>
 
-# ![Mijn Burgerprofiel Logo](/images/mbp-logo.png)
+## ![De Persgroep Logo](/images/de-persgroep-logo.png)
 
-`September 2018 - April 2019`
+`Juli 2014 - August 2017`
 
-A portal for Flemish citizens to see what the government knows about them and contact them.
-* As a technical lead: guide the project from development mode to maintenance mode  
-* As a PM: manage the team and launching [Mijn Burgerprofiel]
+Developing software for print content management, first as a developer, later as a Scrum master. 
+* Support for image content management, from display to payment
+* Support for regional news, especially for [Het Laatste Nieuws]
+* Print content automation for Dutch newspapers like [Algemeen Dagblad]
 <br><br>
-  
-# ![Werk sociaal economie Logo](/images/wse-logo.png)
 
-`Mai 2019 - now`
+## ![Easypay logo](/images/easypay-logo.png)
 
-As a technical lead: creating a new portal for Flemish citizens/enterprises to ask for social funds.
-* Europa: [Europees Sociaal Fonds]
-* Vlaanderen: [Ondersteuning Sociale Economie]
+`October 2011 - June 2014`
+
+Developing HR-software for several companies:
+* Social Insurance Funds [Entraide]: adding new feature or updating to legal requirements
+* Enterprise supervisor [Eunomia]: maintaining and adding new features
 
 
 [Entraide]: https://www.easypay-group.com/nl_BE/diensten/sociaal-verzekeringsfonds
