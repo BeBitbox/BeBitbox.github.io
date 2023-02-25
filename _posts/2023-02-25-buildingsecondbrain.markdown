@@ -68,7 +68,7 @@ I even started to add my TODO-lists or shopping lists into Git.
 [ ] Complete the Advent-of-Code of 2022
 {% endhighlight %}
 
-## Basic knowledge
+### Other knowledge
 Whenever I come across an interesting topic or suggestion, I make sure to add it to my list of information to process.
 A few times each week, I set aside some time to review my notes and decide how to proceed.
 I'll keep anything that I found particularly useful, organize it or create tasks for myself if more work is needed. 
