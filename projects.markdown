@@ -7,7 +7,7 @@ Detailed resume is available at your request.
 
 ## ![Werk sociaal economie Logo](/images/wse-logo.png)
 
-`Mai 2019 - now`
+`Mai 2019 - April 2023`
 
 As a technical lead: creating a new portal for Flemish citizens/enterprises to ask for social funds.
 * Europa: [Europees Sociaal Fonds]
