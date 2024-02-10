@@ -26,7 +26,13 @@ This method significantly simplifies content delivery, reducing the demand on se
 - **Reduced Complexity:** By eliminating unnecessary features and focusing on core functionalities, we streamline operations and lower the potential for technical issues.
 - **Enhanced Performance:** The absence of a database reduces server load, potentially improving page load times and overall website speed.
 - **Simplified Management:** With static JSON files, content management becomes more straightforward, facilitating easier updates and maintenance.
+- **No locking:** There is no vendor-locking or data-locking. Everything is under our control and license free.
 - **Cost:** Where some traditional CMS have hosting bills around 100 - 200€, my hosting cost for a new website is about 20€.
+
+### Limitations
+This headless CMS has a focus on small businesses or projects, but not web shops or advanced websites because of the following limitations:
+- **Mainly public data:** This setup is for simple websites that require no private or restricted data.
+- **Structural changes:** If a client wants a new page or new content, then that structural change will require the involvement of a developer.
 
 ### Implementation Overview
 #### AWS Route53
