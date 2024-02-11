@@ -5,7 +5,14 @@ permalink: /projects/
 ---
 Detailed resume is available at your request.
 
-## ![Werk sociaal economie Logo](/images/wse-logo.png)
+## ![Easypay logo](/images/easypay-logo.png)
+
+`July 2023 - ...`
+
+I work as Enterprise architect: keeping technical overview, supporting new development and looking to integrate with Partena software.
+
+
+# ![Werk sociaal economie Logo](/images/wse-logo.png)
 
 `Mai 2019 - April 2023`
 
@@ -35,7 +42,7 @@ Software to manage and calculate pensions for the Belgian government as a Java c
 
 ## ![De Persgroep Logo](/images/de-persgroep-logo.png)
 
-`Juli 2014 - August 2017`
+`July 2014 - August 2017`
 
 Developing software for print content management, first as a developer, later as a Scrum master. 
 * Support for image content management, from display to payment
