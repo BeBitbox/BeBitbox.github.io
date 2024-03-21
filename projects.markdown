@@ -10,6 +10,7 @@ Detailed resume is available at your request.
 `July 2023 - ...`
 
 I work as Enterprise architect: keeping technical overview, supporting new development and looking to integrate with Partena software.
+<br><br>
 
 
 # ![Werk sociaal economie Logo](/images/wse-logo.png)
