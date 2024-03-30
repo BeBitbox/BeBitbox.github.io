@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Book Release it (second edition)
+title:  "Book: Release it! (second edition)"
 date:   2024-03-21 15:21:57 +0100
 permalink: /release-it/
 ---
