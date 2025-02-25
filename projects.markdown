@@ -5,9 +5,17 @@ permalink: /projects/
 ---
 Detailed resume is available at your request.
 
-## ![Easypay logo](/images/easypay-logo.png)
+## ![WEWIS logo](/images/wewis-logo.png)
 
-`July 2023 - ...`
+`February 2025 - ...`
+
+I work as Security engineer: responsible for the follow-up of all security related matter in the departement and staying confined within the law.
+<br><br>
+
+
+## ![Easypay logo](/images/easypay-logo.png) ![Partena logo](/images/partena-logo.png)
+
+`July 2023 - February 2025`
 
 I work as Enterprise architect: keeping technical overview, supporting new development and looking to integrate with Partena software.
 <br><br>
