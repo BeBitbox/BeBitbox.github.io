@@ -27,7 +27,6 @@ title: BitBox
 description: IT-consultancy firm located in Belgium.
 baseurl: ""
 url: https://www.bitbox.be
-google_analytics: G-9NXR30T008
 
 # social
 github_username:  BeBitbox
@@ -38,6 +37,7 @@ linkedin_username_label: Franky Vertriest
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this project is
 
-Static website for BitBox (www.bitbox.be), an IT-consultancy firm. Built with Jekyll using the Minima theme, deployed via GitHub Pages.
+Static website for BitBox (www.bitbox.be), an IT-consultancy firm. Built with Jekyll using the Minima theme, deployed via GitHub Pages. The goal is to have a professional tech blog. The language on the site is in English
 
 ## Commands
 
