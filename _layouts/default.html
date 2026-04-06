@@ -42,11 +42,16 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ '/feed.xml' | relative_url }}">
 
-  <!-- Apply saved theme before paint to avoid flash -->
+  <!-- Apply theme before paint to avoid flash -->
   <script>
     (function() {
-      var t = localStorage.getItem('bb-theme');
-      if (t === 'light') document.documentElement.setAttribute('data-theme', 'light');
+      var stored = localStorage.getItem('bb-theme');
+      if (stored) {
+        if (stored === 'light') document.documentElement.setAttribute('data-theme', 'light');
+      } else {
+        var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (!prefersDark) document.documentElement.setAttribute('data-theme', 'light');
+      }
     })();
   </script>
 </head>
@@ -128,6 +133,18 @@
           localStorage.setItem('bb-theme', 'light');
         }
       });
+      // Sync with OS-level changes when no explicit preference is stored
+      if (window.matchMedia) {
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+          if (!localStorage.getItem('bb-theme')) {
+            if (e.matches) {
+              document.documentElement.removeAttribute('data-theme');
+            } else {
+              document.documentElement.setAttribute('data-theme', 'light');
+            }
+          }
+        });
+      }
     })();
   </script>
 

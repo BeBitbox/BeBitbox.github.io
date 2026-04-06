@@ -59,3 +59,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - CLAUDE.md
+  - 404.html
