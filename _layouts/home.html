@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<section class="home-hero">
+  <div class="hero-inner">
+    <p class="hero-eyebrow">Technical Blog</p>
+    <h1 class="hero-title">{{ site.title | escape }}</h1>
+    <div class="hero-meta">
+      <span>{{ site.author | escape }}</span>
+      <span class="dot">/</span>
+      <span class="hero-badge">Security Engineer</span>
+      <span class="hero-badge">Software Architect</span>
+    </div>
+  </div>
+</section>
+
+<section class="posts-section">
+  <div class="posts-inner">
+    <h2 class="section-label">Latest Articles</h2>
+
+    {%- if site.posts.size > 0 -%}
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li class="post-item">
+        <a href="{{ post.url | relative_url }}" class="post-card">
+          <time class="post-card-date" datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%Y·%m·%d" }}
+          </time>
+          <div class="post-card-body">
+            <h3 class="post-card-title">{{ post.title | escape }}</h3>
+            {%- if post.excerpt -%}
+            <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 180 }}</p>
+            {%- endif -%}
+            <span class="post-card-cta">Read article <span>&rarr;</span></span>
+          </div>
+        </a>
+      </li>
+      {%- endfor -%}
+    </ul>
+    {%- endif -%}
+  </div>
+</section>
+
+{{ content }}
