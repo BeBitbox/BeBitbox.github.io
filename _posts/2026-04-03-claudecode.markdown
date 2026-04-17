@@ -7,12 +7,12 @@ permalink: /spec-driven-claude/
 
 # Spec-Driven Development with Claude Code
 
-As a software/security architect, I'm constantly evaluating tools that promise to transform developer productivity, code quality, and system design.
-So when Claude Code started gaining traction in the community, I decided to put it to the test and start using it intensively since January.
+As a software/security architect, I'm constantly exploring new tools that promise to transform developer productivity, code quality, and system design.
+So of course I had to play with AI and now I'm creating projects faster than ever before
 My latest project is a a Dutch word game inspired by *Connections*: [Woordgroep](https://woordgroep.site).
 
-This post isn't a getting-started guide.
-It's a lessons-learned summary: the patterns that worked, the mistakes worth avoiding, and a workflow that meaningfully reduced both cost and implementation time using spec-driven development.
+This post is a bit getting-started guide, a bit lessons-learned summary.
+I'll talk abuout the patterns that worked, the mistakes worth avoiding, and a workflow that meaningfully reduced both cost and implementation time using spec-driven development.
 ![Basic workflow](/images/specdriven.png)
 
 ---
