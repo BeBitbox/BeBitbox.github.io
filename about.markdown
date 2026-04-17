@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-[Franky Vertriest](https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}) started to develop in 2011 as a Java-developer.
-In 2013 he started a secondary occupation in designing and maintaining websites.
-He founded BitBox in March 2016, a Belgian based IT-consultancy firm. 
+Owner: [Franky Vertriest](https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }})
+
+I started my professional career in 2011. 
+In 2013 I added a secondary occupation in designing and maintaining websites.
+BitBox was founded by me in March 2016.
 
 # Company information
 Enterprise number: BE 0649.800.228
