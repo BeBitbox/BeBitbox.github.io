@@ -38,6 +38,12 @@
   <meta name="twitter:description" content="{{ page_desc | escape }}">
   <meta name="twitter:image" content="{{ '/images/logo.png' | absolute_url }}">
 
+  <!-- Favicons -->
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/favicon-16x16.png' | relative_url }}">
+  <link rel="shortcut icon" href="{{ '/images/favicon.ico' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png' | relative_url }}">
+
   <!-- Self-hosted fonts -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ '/feed.xml' | relative_url }}">
@@ -54,6 +60,9 @@
       }
     })();
   </script>
+
+  <!-- Pirsch analytics -->
+  <script defer src="https://api.pirsch.io/pa.js" id="pianjs" data-code="K3ABD22zx302pZk9fwhmyO5x7JsDjWzp"></script>
 </head>
 <body>
 

@@ -21,7 +21,7 @@ bundle exec jekyll build
 
 ## Architecture
 
-- `_config.yml` — site-wide settings (title, author, theme, plugins, Google Analytics)
+- `_config.yml` — site-wide settings (title, author, theme, plugins)
 - `_posts/` — blog posts in Markdown, filename format: `YYYY-MM-DD-slug.markdown`
 - `_includes/` — reusable HTML snippets (header, social icons)
 - `images/` — static images referenced in posts and pages
