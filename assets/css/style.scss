@@ -900,6 +900,14 @@ body::before {
   letter-spacing: 0.04em;
 }
 
+.footer-copy a {
+  color: inherit;
+}
+
+.footer-copy a:hover {
+  color: var(--text);
+}
+
 .footer-desc {
   font-size: 0.82rem;
   color: var(--text-muted);

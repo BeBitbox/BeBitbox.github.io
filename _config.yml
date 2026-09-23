@@ -28,6 +28,11 @@ description: Security & Software Architect
 baseurl: ""
 url: https://www.bitbox.be
 
+# pages shown in the main navigation
+header_pages:
+  - about.markdown
+  - projects.markdown
+
 # social
 github_username:  BeBitbox
 linkedin_username: franky-vertriest-70bb9a110
