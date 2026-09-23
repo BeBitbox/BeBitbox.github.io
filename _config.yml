@@ -28,10 +28,7 @@ description: Security & Software Architect
 baseurl: ""
 url: https://www.bitbox.be
 
-# pages shown in the main navigation
-header_pages:
-  - about.markdown
-  - projects.markdown
+# don't use header_pages. doesn't work
 
 # social
 github_username:  BeBitbox
